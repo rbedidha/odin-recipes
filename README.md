@@ -1,5 +1,5 @@
 Odin Recipes:
 
-HTML project containing links to recipes on different webpages
+HTML project containing a homepage that redirects to other pages pages in the website for specific recipes. Each recipe page contains information about the recipe, an image of the dish, required ingredients, and steps to prepare it.
 
-Demonstrates html competency and proficiency in handling text as well as hyperlinks
+Demonstrates html competency and proficiency in handling text, hyperlinks, images, and lists.
